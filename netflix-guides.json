@@ -1,0 +1,22 @@
+{
+  "errors": {},
+  "fetched_at": {
+    "coming": "2026-11-15T03:36:16+00:00",
+    "leaving": "2026-11-15T03:36:16+00:00"
+  },
+  "guides": {
+    "coming:December-2026": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-december-2026/",
+    "coming:November-2026": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-november-2026/",
+    "coming:October-2026": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-october-2026/",
+    "coming:September-2026": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-september-2026/",
+    "leaving:December-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+    "leaving:July-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-july-2026/",
+    "leaving:November-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+    "leaving:October-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-october-2026/",
+    "leaving:September-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+  },
+  "last_attempt_at": "2026-11-15T03:36:16+00:00",
+  "region": "US",
+  "schema": 1,
+  "updated_at": "2026-11-15T03:36:16+00:00"
+}
