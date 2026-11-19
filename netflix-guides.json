@@ -1,8 +1,8 @@
 {
   "errors": {},
   "fetched_at": {
-    "coming": "2026-11-18T20:43:43+00:00",
-    "leaving": "2026-11-18T20:43:43+00:00"
+    "coming": "2026-11-19T07:40:04+00:00",
+    "leaving": "2026-11-19T07:40:04+00:00"
   },
   "guides": {
     "coming:December-2026": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-december-2026/",
@@ -15,8 +15,8 @@
     "leaving:October-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-october-2026/",
     "leaving:September-2026": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
   },
-  "last_attempt_at": "2026-11-18T20:43:43+00:00",
+  "last_attempt_at": "2026-11-19T07:40:04+00:00",
   "region": "US",
   "schema": 1,
-  "updated_at": "2026-11-18T20:43:43+00:00"
+  "updated_at": "2026-11-19T07:40:04+00:00"
 }
